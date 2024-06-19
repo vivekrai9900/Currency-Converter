@@ -36,4 +36,6 @@ const styles = StyleSheet.create({
         fontSize: 14,
         color: '#2d3436',
     }
-})
+});
+
+export default CurrencyButton;
